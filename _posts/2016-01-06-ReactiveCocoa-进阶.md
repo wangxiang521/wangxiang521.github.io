@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
-author:     BY
+title:      Hello My  Blog
+subtitle:   记录第一次博客之旅
+date:       2018-11-2
+author:     WX
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
