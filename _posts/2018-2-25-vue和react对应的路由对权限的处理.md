@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      React/vueRouter
+title:      React
 subtitle:   权限处理
-date:       2018-11-2
+date:       2019-2-25
 author:     WX
 header-img: img/react.jpg
 catalog: true
 tags:
     - 前端
     - React
-    - Vue
 ---
 # 前言
 很多时候我们都会有需求对应的权限处理。个人理解目前的权限有以下几种需求

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ff7a0a-d51b-4bc6-ab23-5058dcf13a4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,14 +53,14 @@
         <counts>
           <entry key="CNAME" value="12" />
           <entry key="html" value="233" />
-          <entry key="md" value="2916" />
+          <entry key="md" value="2926" />
           <entry key="yml" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="233" />
-          <entry key="Markdown" value="2459" />
+          <entry key="Markdown" value="2469" />
           <entry key="PLAIN_TEXT" value="469" />
           <entry key="YAML" value="210" />
         </counts>
@@ -74,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-2-React学习记录.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1395">
-                <caret line="45" column="43" selection-start-line="12" selection-end-line="45" selection-end-column="43" />
+              <first_editor>
+                <caret selection-end-line="11" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="651">
-                <caret line="135" column="51" selection-start-line="135" selection-start-column="51" selection-end-line="135" selection-end-column="51" />
+              <first_editor relative-caret-position="155">
+                <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -290,12 +289,12 @@
       <workItem from="1541208245260" duration="206000" />
       <workItem from="1550734876981" duration="900000" />
       <workItem from="1550814263641" duration="4713000" />
-      <workItem from="1551063020734" duration="3555000" />
+      <workItem from="1551063020734" duration="3779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21351000" />
+    <option name="totallyTimeSpent" value="21575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -410,16 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-2-React学习记录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1395">
-            <caret line="45" column="43" selection-start-line="12" selection-end-line="45" selection-end-column="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -488,11 +477,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-2-React学习记录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="651">
-            <caret line="135" column="51" selection-start-line="135" selection-start-column="51" selection-end-line="135" selection-end-column="51" />
+          <first_editor relative-caret-position="155">
+            <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
