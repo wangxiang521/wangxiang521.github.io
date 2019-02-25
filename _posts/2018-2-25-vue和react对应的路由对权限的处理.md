@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      React
+title:      关于react和Vue的权限处理
 subtitle:   权限处理
 date:       2019-2-25
 author:     WX
