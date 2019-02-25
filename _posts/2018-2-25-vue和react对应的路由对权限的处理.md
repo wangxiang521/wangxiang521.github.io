@@ -25,7 +25,7 @@ tags:
 
 这里是入口重写的react-router-config的renderRoutes，增加了requiresAuth字段，表示该页面是否需要登陆才可以访问
 
- 
+        //这段话
         import React from 'react'
         import { Route, Redirect, Switch } from 'react-router-dom'
         const renderRoutes = (routes, authed, authPath = '/login', extraProps = {}, switchProps = {}) => routes ? (
@@ -40,7 +40,7 @@ tags:
                   if (!route.requiresAuth || authed || route.path === authPath) {
                     return <route.component {...props} {...extraProps} route={route} />
                   }
-                  return <Redirect to={{ pathname: authPath, state: { from: props.location } }} />
+                        return <Redirect to={{ pathname: authPath, state: { from: props.location }}} />
                 }}
               />
             ))}

@@ -53,14 +53,14 @@
         <counts>
           <entry key="CNAME" value="12" />
           <entry key="html" value="233" />
-          <entry key="md" value="2926" />
+          <entry key="md" value="2939" />
           <entry key="yml" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="233" />
-          <entry key="Markdown" value="2469" />
+          <entry key="Markdown" value="2482" />
           <entry key="PLAIN_TEXT" value="469" />
           <entry key="YAML" value="210" />
         </counts>
@@ -85,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="155">
-                <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <first_editor relative-caret-position="517">
+                <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -289,12 +289,12 @@
       <workItem from="1541208245260" duration="206000" />
       <workItem from="1550734876981" duration="900000" />
       <workItem from="1550814263641" duration="4713000" />
-      <workItem from="1551063020734" duration="3779000" />
+      <workItem from="1551063020734" duration="4061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21575000" />
+    <option name="totallyTimeSpent" value="21857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -490,8 +490,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-2-25-vue和react对应的路由对权限的处理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <first_editor relative-caret-position="517">
+            <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
