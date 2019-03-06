@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ff7a0a-d51b-4bc6-ab23-5058dcf13a4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/原型链解读.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-6-原型链解读.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-6-原型链解读.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-6-原型链解读.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,7 +59,7 @@
           <entry key="CNAME" value="12" />
           <entry key="html" value="251" />
           <entry key="js" value="234" />
-          <entry key="md" value="4594" />
+          <entry key="md" value="4595" />
           <entry key="yml" value="210" />
         </counts>
       </usages-collector>
@@ -68,7 +67,7 @@
         <counts>
           <entry key="HTML" value="251" />
           <entry key="JavaScript" value="234" />
-          <entry key="Markdown" value="4137" />
+          <entry key="Markdown" value="4138" />
           <entry key="PLAIN_TEXT" value="469" />
           <entry key="YAML" value="210" />
         </counts>
@@ -80,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="31">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
               <folding>
                 <element signature="e#33#2129#0" />
               </folding>
@@ -93,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-6-原型链解读.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="620">
+                <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -293,12 +292,12 @@
       <workItem from="1551751698485" duration="5438000" />
       <workItem from="1551770504274" duration="3287000" />
       <workItem from="1551836272016" duration="1185000" />
-      <workItem from="1551845822135" duration="6143000" />
+      <workItem from="1551845822135" duration="6266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56286000" />
+    <option name="totallyTimeSpent" value="56409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -480,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="31">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
           <folding>
             <element signature="e#33#2129#0" />
           </folding>
@@ -505,8 +504,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-6-原型链解读.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="620">
+            <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
